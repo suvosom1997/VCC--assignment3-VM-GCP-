@@ -8,7 +8,7 @@ When the CPU or memory utilization on the local Puppy Linux VM exceeds 75%, the 
 
 ![System Architecture](/detailed-architecture.png)
 
-![Overall FLow]](/flow.png)
+![Overall FLow](/flow.png)
 
 
 ## Prerequisites
