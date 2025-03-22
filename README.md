@@ -6,7 +6,7 @@ This project implements an automated resource monitoring system on a Puppy Linux
 
 When the CPU or memory utilization on the local Puppy Linux VM exceeds 75%, the system automatically provisions a new virtual machine instance in Google Cloud Platform and deploys a basic web server, effectively scaling to the cloud.
 
-![System Architecture](/main/detailed-architecture.png)
+![System Architecture](/detailed-architecture.png)
 
 ## Prerequisites
 
