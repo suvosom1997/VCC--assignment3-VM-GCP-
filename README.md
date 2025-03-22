@@ -2,6 +2,9 @@
 
 This project implements an automated resource monitoring system on a Puppy Linux VM that triggers auto-scaling to Google Cloud Platform when local resource usage exceeds a defined threshold.
 
+## Youtube Demo
+[Link](/https://youtu.be/wdwHNQFYDkk)
+
 ## Overview
 
 When the CPU or memory utilization on the local Puppy Linux VM exceeds 75%, the system automatically provisions a new virtual machine instance in Google Cloud Platform and deploys a basic web server, effectively scaling to the cloud.
